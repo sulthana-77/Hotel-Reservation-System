@@ -1,20 +1,42 @@
-# Hotel Reservation System (Java)
+# Hotel Reservation System
 
-A simple console-based Hotel Reservation System built using Java.
+A console-based Hotel Reservation System developed using Java and Object-Oriented Programming principles.
 
 ## Features
-- View available rooms
-- Book a room
-- Cancel booking
-- Prevent double booking
-- Simple menu-driven system
+
+* View Available Rooms
+* Book Rooms
+* Cancel Bookings
+* Search Rooms
+* Room Pricing
+* Customer Name and Phone Number Management
+* Booking ID Generation
+* Phone Number Validation
+* File Handling using bookings.txt
+* View Saved Bookings
 
 ## Technologies Used
-- Java
-- OOP Concepts
-- Git & GitHub
+
+* Java
+* OOP (Classes, Objects, Methods)
+* File Handling
+* Git & GitHub
+
+## Project Structure
+
+* Main.java
+* Hotel.java
+* Room.java
+* BookingFileManager.java
 
 ## How to Run
+
 ```bash
-javac Main.java Room.java
+javac *.java
 java Main
+```
+
+## Author
+
+ Shaik Sanobar Sulthana
+
